@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "Name": "emp1",
+      "Status": "ACTIVE"
+    },
+    {
+      "id": "2",
+      "Name": "emp2",
+      "Status": "ADDED"
+    },
+    {
+      "id": "3",
+      "Name": "emp3",
+      "Status": "IN-CHECK"
+    },
+    {
+      "id": "4",
+      "Name": "emp4",
+      "Status": "IN-CHECK"
+    },
+    {
+      "id": "5",
+      "Name": "emp5",
+      "Status": "APPROVED"
+    },
+    {
+      "id": "100",
+      "Name": "kareem",
+      "Status": "INACTIVE"
+    },
+    {
+      "id": "50",
+      "Name": "Van Diesel",
+      "Status": "INACTIVE"
+    },
+    {
+      "id": "7",
+      "Name": "IronMan",
+      "Status": "INACTIVE"
+    },
+    {
+      "id": "80",
+      "Name": "Nady",
+      "Status": "APPROVED"
+    }
+  ]
+}
